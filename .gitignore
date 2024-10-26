@@ -8,3 +8,10 @@ wheels/
 
 # venv
 .venv
+
+# tests
+tests/*
+output.jpg
+
+# Mac
+.DS_Store
