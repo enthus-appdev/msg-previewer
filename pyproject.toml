@@ -10,6 +10,7 @@ dependencies = [
     "extract-msg>=0.50.0",
     "pillow>=10.4.0",
     "beautifulsoup4>=4.12.3",
+    "fast-mail-parser>=0.2.5",
 ]
 readme = "README.md"
 requires-python = ">= 3.8"

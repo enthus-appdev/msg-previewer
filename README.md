@@ -1,9 +1,11 @@
 # Setup
 install rye (or any other python pkg manager of choice, you'll have to install the dependencies yourself)
 
+install rust (`brew install rust` or https://www.rust-lang.org/tools/install)
+
 `rye sync`
 
-
+# Starting the program (local)
 `python src/main.py`
 
 
