@@ -31,6 +31,8 @@ ebcdic==1.1.1
     # via extract-msg
 extract-msg==0.50.0
     # via files-preview-python-api
+fast-mail-parser==0.2.5
+    # via files-preview-python-api
 flask==3.0.3
     # via files-preview-python-api
 itsdangerous==2.2.0
